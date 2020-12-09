@@ -27,10 +27,11 @@ const Home = () => {
        <div className="home-hero-wrapper">
             <div className="home-hero-a">
             <h2 style={{color:'#1261A0'}}>OUR SERVICES</h2>
-            <p>At Shaft Company Limited, we over a variety of services like construction of multi-level residential buildings , office and mixed use buildings, repairs and maintenance, interior design and installation, equipment hire,excavator works,site preparation dumping, building materials delivery, road murruming and butimen standardization</p>
+            <p>At Shaft Company Limited, we offer a variety of services like construction of multi-level residential buildings , office and mixed use buildings, repairs and maintenance, interior design and installation, equipment hire,excavation, 
+              site preparation, dumping, building materials delivery, road murruming and butimen standardization</p>
            <p>Our services are client based and we always ensure that clients needs are perfectly met. Attention to detail, quality and timeliness is what put us ahead of other companies in the construction field.</p>
-           <p>Following the good services, we have received numerous appreciations from our clients who continue living in confort because of the best services we offer.</p>
-           <p>Shaft Company limmited abides by the standards and work within the Kenyan laws. The company is NCA approved and we also abide by other numerous laws required of us.</p>
+           <p>Following the good services, we have received numerous appreciations from our clients who continue living in confort because of the services we offered.</p>
+           <p>Shaft Company limited abides by the standards and work within the Kenyan regulatory measures. The company is NCA approved and we also abide by other numerous regulatory measures required of us.</p>
            <Button variant="primary" size="lg" style={{backgroundColor:'#ff5500'}}>
              <Link to="/services" style={{color:'white'}}>
              Our Services
@@ -76,7 +77,7 @@ const Home = () => {
                 <Card.Body style={{padding:'0 10%',paddingBottom:'10px'}}>
                      <h4 style={{color:'#1261A0'}}>PROCESS</h4>
                      <div style={{margin:'25px 0'}}>
-                       At Shaft Co. Limited, we office a robust way in which the clients define what they want. We are to pay attention to details and ensure that the best quality of services are delivered.
+                       At Shaft Co. Limited, we offer a robust procedure for the clients define what they want. We also pay attention to details and ensure that the best quality of services are delivered.
                      </div>
                      <Button variant="primary" style={{backgroundColor:'#ff5500'}}>
                      <Link to="/process" style={{color:'#fff'}}> 
