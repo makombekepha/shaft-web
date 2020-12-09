@@ -37,6 +37,7 @@ const Employees = () => {
       <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Asistant Structural Engineer</p>
       <p style={{fontSize:'15px',marginBottom:'0'}}>September 2016 - 2017:- KURA</p>
       <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Industrial Attache</p>
+      <p style={{fontSize:'15px',paddingLeft:"40px"}}>Phone: 0712259369</p>
     </div>
   </Card>
   <Card>
@@ -63,6 +64,7 @@ const Employees = () => {
       <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Research Assistant</p>
       <p style={{fontSize:'15px',marginBottom:'0'}}>May 2015 - Aug 2015:- Homa Bay County</p>
       <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Industrial Attache</p>
+      <p style={{fontSize:'15px',paddingLeft:"40px"}}>Phone: 0712259369</p>
     </div>
   </Card>
   <Card>
@@ -85,7 +87,7 @@ const Employees = () => {
       <p style={{fontSize:'15px',marginBottom:'0'}}>November 2015 -September 2018:- Wintorn</p>
       <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Supervisor</p>
       <p style={{fontSize:'15px',marginBottom:'0'}}>September 2018 - 2019:- Tuff Concrete</p>
-      <p style={{fontSize:'13px',paddingLeft:"40px"}}>POSITION: Plant Operator/ Supervisor</p>
+      <p style={{fontSize:'15px',paddingLeft:"40px"}}>Phone: 0713179811</p>
     </div>
   </Card>
 </CardGroup>
