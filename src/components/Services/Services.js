@@ -80,14 +80,14 @@ const Services = () => {
       </div>
        
       <div className="midd">
-         <h3 style={{color:'#1261A0'}}>Excavator Works</h3>
+         <h3 style={{color:'#1261A0'}}>Excavation</h3>
       </div>
 
       <div className="proj">
        <CardDeck>
                <Card className="home-card-a" style={{padding:'35px 0'}}>
                <Card.Body style={{padding:'0 10%'}}>
-                     <h4 style={{color:'#ff5500'}}>Excavator Works</h4>
+                     <h4 style={{color:'#ff5500'}}>Excavation</h4>
                      <div style={{margin:'25px 0'}}>
                      <p style={{fontSize:'14px'}}>
                      Excavators are an essential piece of heavy equipment for most
@@ -95,7 +95,8 @@ const Services = () => {
                        used for all kinds of jobs like material handling, landscaping, demolition,
                         mining projects, river dredging and construction.
                      </p>
-                     <p style={{fontSize:'14px'}}>Shaft Co. LImited has good excavators with highly trained well experienced in the machine operations.
+                     <p style={{fontSize:'14px'}}>Shaft Co. LImited has well serviced excavators 
+                     and  highly trained and experienced operators for the machine operations.
                        We offer the best services.
                      </p>
                      </div>
@@ -120,9 +121,9 @@ const Services = () => {
       <div className="client-views">
          <h4 style={{color:'#ff5500'}}>Talk of Elegance, talk about us..</h4>
          <p>
-         If there is what makes a building cossy or elegant then it is how the interior decorations are done. A Shaft Co. LImited we give the best. When seen on photographs one wuold imagine
-         it is an imaginary thing. We are commited to giving the best of the services. Our team has experts who helps with the design ideas and they are able to
-         turn what a client describes to a real design.
+         If there is what makes a building cossy or elegant then it is the interior decoration,at Shaft Co. Limited we give the best. When seen on photographs one wuold imagine
+         it is an imaginary design. We are commited to giving the best of the services. Our team has experts who help with the design ideas and they are able to
+         turn what a client describes into real designs.
 
          The choice of Shaft Co. Limited is one that will never be regretted. Our previous projects like the Royal Swiss Hotel
           is a true testimony that we offer the best. 
@@ -172,9 +173,9 @@ const Services = () => {
        <div className="client-views">
          <h4 style={{color:'#ff5500'}}>We will never fail you...</h4>
          <p>
-         Do not be stuck please. Raech us on phone or mail to our equipment. The Equipments are well serviced and modern 
-         which makes the work easier. We guarantee you smooth operations from our machines. 
-        We have a variety of trucks, lorries, excuvators graders which you caan hire at your comfort.
+         Do not be stuck,reach us on phone or mail for equipment hiring services. The Equipments are well serviced and modern 
+         which makes the work easier. We guarantee you smooth operations with our machines. 
+        We have a variety of trucks, lorries, excuvators and graders which you can hire at your comfort.
          The hiring cost of our equipments is friendly and we can always negotiate.
          </p>
        </div>
@@ -257,7 +258,7 @@ const Services = () => {
          Wastes can cause a lot of contigeous diseases in our environs. Let this not stress you any more since 
          our lorries are ready to ferry and dump the wastes in a safe place where they are treated. 
 
-         Our services are fair price wise. Since we are always considerate and very flexible. Please, avoid spread of diseases, reach
+         Our services are offered at fair price. Since we are always considerate and very flexible. Please, avoid spread of diseases, reach
          us as quick as possible. We are but a phone call away.
          </p>
        </div>
