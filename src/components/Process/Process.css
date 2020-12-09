@@ -1,0 +1,36 @@
+.hero-wrapper{
+    padding:0;
+    margin-top: 0;
+    height: calc(100vh - 40vh);
+    width: 100%;
+    --background-image: url(../../assets/building.jpg);
+}
+.hero-wrapper img{
+    height: calc(100vh - 40vh);
+    width: 100%;
+    object-fit: cover;
+}
+.contacts-title{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: blue;
+}
+.intro{
+    padding: 30px 4%;
+}
+.wants{
+    padding: 20px 40px;
+}
+.wants hr{
+    margin-top:40px;
+}
+.acard{
+    border: 1px solid #1261A0 !important;
+}
+@media only screen and (max-width: 800px) {
+    .contacts-title{
+       padding-left: 50%;
+    }
+}

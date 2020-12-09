@@ -1,0 +1,52 @@
+.hero-wrapper{
+    padding:0;
+    margin-top: 0;
+    height: calc(100vh - 40vh);
+    width: 100%;
+    --background-image: url(../../assets/building.jpg);
+}
+.hero-wrapper img{
+    height: calc(100vh - 40vh);
+    width: 100%;
+    object-fit: cover;
+}
+.contacts-title{
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: blue;
+}
+.card1{
+    padding: 10px;
+    border: none !important;
+    box-shadow: none !important;
+}
+.sett{
+    width:50%;
+}
+@media only screen and (max-width: 600px) {
+  
+.sett{
+    width: 100% !important;
+    padding: 4px;
+} 
+.contacts-title h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 9px;
+}
+ .card h3{
+     font-size: 20px;
+ }
+}
+
+   
+  @media only screen and (max-width: 800px) {
+    .contacts-title{
+       padding-left: 50%;
+    }
+}

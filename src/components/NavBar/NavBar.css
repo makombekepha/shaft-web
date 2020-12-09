@@ -1,0 +1,50 @@
+
+.nav-wrapper{
+    background-color:#1261A0 !important;
+     
+}
+.nav-items li a{
+    color: aliceblue !important; 
+}
+.nav-items li a:hover{
+    color:green !important; 
+    background-color: transparent;
+}
+.side-close{
+    display: none;
+}
+.sidenav-overlay {
+    --background-color: transparent;
+}
+.sidenav li a{
+    color: teal !important;
+}
+.sidenav li{
+    text-align: left;
+    
+}
+.kik div{
+    background-color: rgba(207, 204, 204, 0.6);
+    width: 250px;
+    --height: 100px;
+    margin-top: 0 !important;
+    color: blue !important;
+}
+.kik div a{
+    padding: 0 7px !important;
+    margin: 0 !important;
+}
+.collapsible li a{
+    text-align: left !important;
+    padding-left: 16px;
+}
+.collapsible-body li a{
+    text-align: left !important;
+    padding-left: 30% !important;
+}
+.collapsible-header{
+    text-align: left;
+    padding-left: 10% !important;
+    color: teal !important;
+    font-weight: 500;
+}

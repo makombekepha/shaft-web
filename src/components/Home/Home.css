@@ -1,0 +1,129 @@
+.midd{
+    text-align: center;
+    width: 100%;
+    padding: 25px 4%;
+}
+.home-hero{
+    width: 50%;
+}
+.home-hero-wrapper{
+    width: 100%;
+    min-height: 800px;
+    margin: 30px 0;
+    display: flex;
+}
+.home-hero-b{
+    width:50%;
+    min-height: 800px;
+}
+.home-hero-a{
+    padding: 80px 4%;
+
+    width:50%;
+    min-height: 800px;
+    background-color: rgb(227, 238, 238);
+}
+.home-hero-b img{
+    width: 100%;
+    min-height: 800px;
+    object-fit: cover;
+}
+.gener{
+    margin:0 1%;
+}
+.home-card-a{
+    background-color: rgb(230, 227, 227);
+    margin-right: 25px !important;
+}
+.home-card-b{
+    background-color: rgb(230, 227, 227);
+    margin-left: 25px !important;
+}
+.client-views{
+    background-color: rgb(241, 238, 238);
+    width: 100%; 
+    padding: 20px 5%;
+}
+.client-views h4{
+    text-align: center;
+}
+.home-projects{
+    text-align: center;
+    padding: 40px 0;
+    width: 100%;
+}
+.home-bronchure-overlay{
+    background-color: rgba(255,255,255, 0.7);
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.home-form{
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 20px 2%;
+}
+.home-bronchure-a, .home-bronchure-b{
+    width: 50%;
+    color: black !important;
+    padding:30px 5%;
+}
+.home-bronchure-b{
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+.home-bronchure{
+    width: 100%;
+    min-height: 600px;
+    background-image: url(../../assets/cont.jpg);
+    background-repeat:repeat-x;
+}
+.home-cont-rem{
+    width: 100%;
+    padding: 40px 4%;
+    text-align: center;
+}
+.home-projects Button:hover{
+     color:#fff;
+     background: black;
+}
+@media only screen and (max-width: 768px) {
+    .home-hero {
+        width: 100%;
+    }
+    .home-hero-b, .home-hero-a {
+        width: 100%;
+    }
+    .home-hero-wrapper{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+    .home-hero-a{
+        padding: 40px 10px;
+        min-height: 400px;
+    }
+    .home-hero-b{
+        min-height: 400px;
+    }
+    .home-hero-b img{
+        min-height: 400px;
+    }
+    .home-card-a{
+        margin: 0 !important;
+    }
+    .home-card-b{
+        margin-left: 0 !important;
+    }
+    .home-bronchure-a, .home-bronchure-b{
+        width: 100%;
+        min-height: 300px;
+    }
+    .home-bronchure-overlay{
+        flex-direction: column;
+    }
+    .home-bronchure{
+        background-repeat:repeat-y;
+    }
+  }

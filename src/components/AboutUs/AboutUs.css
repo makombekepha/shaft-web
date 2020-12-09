@@ -1,0 +1,89 @@
+.hero-wrapper{
+    padding:0;
+    margin-top: 0;
+    height: calc(100vh - 40vh);
+    width: 100%;
+    --background-image: url(../../assets/building.jpg);
+}
+.hero-wrapper img{
+    height: calc(100vh - 40vh);
+    width: 100%;
+    object-fit: cover;
+}
+.section{
+    text-align: center;
+}
+.section h5{
+    font-size: 1.5rem;
+}
+.contacts-title{
+        position: absolute;
+        top: 40%;
+        left: 20%;
+        transform: translate(-50%, -50%);
+        color: blue;
+}
+.card{
+    border: none !important;
+    box-shadow: none !important;
+}
+.expectations{
+    width: 100%;
+    padding: 0 4%;
+    margin-bottom: 50px;
+}
+.note{
+    width: 100%;
+    padding: 10px 4%;
+}
+.note p{
+    font-weight: bold;
+}
+.expectations a{
+    margin-bottom: 30px;
+}
+.expectations ul{
+    margin: 20px 0;
+}
+.expectations li{
+    margin-bottom: 10px;
+}
+.card p{
+    font-size: 18px;
+    font-weight: 100px;
+    padding: 0  15px;
+}
+.sett{
+    width:50%;
+}
+@media only screen and (max-width: 600px) {
+ 
+.sett{
+    width: 100% !important;
+    --padding: 4px;
+} 
+.sett img{
+    width: 100% !important;
+    
+}
+.contacts-title h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 9px;
+}
+ .card h3{
+     font-size: 20px;
+ }
+}
+@media only screen and (max-width: 350px) {
+    
+  .contacts-title h1{
+      font-size: 25px;
+      text-align: center;
+      transform: translate(0, 0);
+  }
+   
+  }
