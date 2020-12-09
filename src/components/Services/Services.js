@@ -80,14 +80,14 @@ const Services = () => {
       </div>
        
       <div className="midd">
-         <h3 style={{color:'#1261A0'}}>Exavator Works</h3>
+         <h3 style={{color:'#1261A0'}}>Excavator Works</h3>
       </div>
 
       <div className="proj">
        <CardDeck>
                <Card className="home-card-a" style={{padding:'35px 0'}}>
                <Card.Body style={{padding:'0 10%'}}>
-                     <h4 style={{color:'#ff5500'}}>Exavator Works</h4>
+                     <h4 style={{color:'#ff5500'}}>Excavator Works</h4>
                      <div style={{margin:'25px 0'}}>
                      <p style={{fontSize:'14px'}}>
                      Excavators are an essential piece of heavy equipment for most
