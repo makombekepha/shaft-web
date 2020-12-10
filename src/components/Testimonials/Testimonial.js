@@ -55,7 +55,7 @@ Should we ever decide to  build another facilty, without any hesitation, Shaft i
                      builder direct for any changes, queries or updates was reassuring, as we did change our my mind 
                      regularly with many things. but it was never too much trouble nor a hassle.</p>
                       <p>The team was always on hand if I needed advice on any matters. The friendly service and the 
-                          “nothing is too difficult” attitude made every experience with Shaft company LImited a 
+                          “nothing is too difficult” attitude made every experience with Shaft Construction Limited a 
                           pleasure..."</p>
                             
 <strong style={{color:'#1261A0'}}>Royal Swiss, CEO</strong>

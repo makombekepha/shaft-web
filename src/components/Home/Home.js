@@ -21,17 +21,17 @@ const Home = () => {
 
 
        <div className="midd">
-         <h1 style={{color:'#1261A0'}}>Welcome to Shaft Company Limited</h1>
+         <h1 style={{color:'#1261A0'}}>Welcome to Shaft Construction Limited</h1>
          <h5>Attention to Detail. Attention to Quality. Attention to Timeliness</h5>
        </div>
        <div className="home-hero-wrapper">
             <div className="home-hero-a">
             <h2 style={{color:'#1261A0'}}>OUR SERVICES</h2>
-            <p>At Shaft Company Limited, we offer a variety of services like construction of multi-level residential buildings , office and mixed use buildings, repairs and maintenance, interior design and installation, equipment hire,excavation, 
+            <p>At Shaft Construction Limited, we offer a variety of services like construction of multi-level residential buildings , office and mixed use buildings, repairs and maintenance, interior design and installation, equipment hire,excavation, 
               site preparation, dumping, building materials delivery, road murruming and butimen standardization</p>
            <p>Our services are client based and we always ensure that clients needs are perfectly met. Attention to detail, quality and timeliness is what put us ahead of other companies in the construction field.</p>
            <p>Following the good services, we have received numerous appreciations from our clients who continue living in confort because of the services we offered.</p>
-           <p>Shaft Company limited abides by the standards and work within the Kenyan regulatory measures. The company is NCA approved and we also abide by other numerous regulatory measures required of us.</p>
+           <p>Shaft Construction limited abides by the standards and work within the Kenyan regulatory measures. The Company is NCA approved and we also abide by other numerous regulatory measures required of us.</p>
            <Button variant="primary" size="lg" style={{backgroundColor:'#ff5500'}}>
              <Link to="/services" style={{color:'white'}}>
              Our Services
