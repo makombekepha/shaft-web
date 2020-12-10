@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import ban from '../../assets/shaftLogo1.png'
+import ban from '../../assets/shaftco.png'
 //import { Button } from '../Button/Button';
 import { Link } from 'react-router-dom';
 import {
