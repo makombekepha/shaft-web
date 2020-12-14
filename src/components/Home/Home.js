@@ -324,7 +324,9 @@ const Home = () => {
           <label htmlFor="last_name">Phyical Address</label>
         </div>
       </div>
-      <a className="waves-effect waves-light btn" href="#k" style={{backgroundColor:'#ff5500'}}>Send</a>
+      <a className="waves-effect waves-light btn" 
+      onClick={()=>alert("Please mail us directly through the company email: info@shaft.co.ke, we are still configuring the automatic webmailing service. Thank You.")}
+      href="#k" style={{backgroundColor:'#ff5500'}}>Send</a>
     </form></div>
            </div>
          </div>

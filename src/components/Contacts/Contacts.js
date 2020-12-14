@@ -108,7 +108,9 @@ const Contacts = () => {
           <label htmlFor="textarea1"></label>
         </div>
       </div>
-      <a className="waves-effect waves-light btn" href="#k" style={{backgroundColor:'#1261A0'}}>Send</a>
+      <a className="waves-effect waves-light btn" href="#k" 
+       onClick={()=>alert("Please mail us directly through the company email: info@shaft.co.ke, we are still configuring the automatic webmailing service. Thank You.")}
+      style={{backgroundColor:'#1261A0'}}>Send</a>
     </form>
   </div>
               </div>
