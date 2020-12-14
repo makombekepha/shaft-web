@@ -28,7 +28,7 @@ function Footer() {
           <div className='footer-link-items'>
             <h4>Contact Us</h4>
             <Link to='/'>07 05000089 or 07 86151760</Link>
-            <Link to='/'>shaft.ltd.inc@gmail.com</Link>
+            <Link to='/'>info@shaft.co.ke</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>

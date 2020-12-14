@@ -362,7 +362,7 @@ const Services = () => {
        {/*end projects*/}
 
        <div className="home-cont-rem">
-         <h4 style={{color:'#1261A0'}}>Have a question about the building process or want to chat about your new home? Call us today on 07 3488 0055.
+         <h4 style={{color:'#1261A0'}}>Have a question about the building process or want to chat about your new home? Call us today on 07 05 000089 or 07 86 151760 or mail us on info@shaft.co.ke.
         </h4>
        </div>
 

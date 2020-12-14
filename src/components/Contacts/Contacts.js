@@ -38,7 +38,7 @@ const Contacts = () => {
                     <ul style={{paddingLeft:'15px'}}>
                      <li>   <IoMdCall style={{color:'#1261A0'}}/>  07 05000089</li>
                      <li>   <IoMdCall style={{color:'#1261A0'}}/> 07 86151760</li>
-                     <li>   <FiMail style={{color:'#1261A0'}}/> shaft.ltd.inc@gmail.com</li>
+                     <li>   <FiMail style={{color:'#1261A0'}}/> info@shaft.co.ke</li>
                      <li>   <SiMinutemailer style={{color:'#1261A0'}}/> P.O BOX 64-40404, Rongo, Kenya</li>
                      <li>    <ImLocation style={{color:'#1261A0'}}/> Shule View, Office No. 01 First Floor, Rongo, Off Homabay Road</li>
                     </ul>

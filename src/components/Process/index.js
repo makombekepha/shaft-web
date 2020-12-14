@@ -99,7 +99,7 @@ const Process = () => {
         </div>
         <div style={{width:'100%',margin:'0 4%',marginBottom:'50px',fontSize:'18px',color:"#ff5500",textAlign:'center'}}>
         <p>Find out just how exciting and profitable choosing Shaft Co. Limited can be.</p>
-        <p>Call us today on 07 05000089 or  07 86151760 or email shaft.ltd.inc@gmail.com</p>
+        <p>Call us today on 07 05000089 or  07 86151760 or email info@shaft.co.ke</p>
         </div> 
         </div>
     )
